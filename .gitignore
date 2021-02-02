@@ -1,0 +1,6 @@
+*.csv
+*.bz2
+.Rhistory
+.RData
+rsconnect/*
+
